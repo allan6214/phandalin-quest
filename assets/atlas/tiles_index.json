@@ -1,0 +1,12 @@
+{
+  "tile_grass_01": 0,
+  "tile_path_01": 1,
+  "tile_green_01": 2,
+  "tile_roof_01": 3,
+  "tile_wall_stone_01": 4,
+  "tile_door_01": 5,
+  "tile_floor_01": 6,
+  "tile_wall_inner_01": 7,
+  "tile_door_inner_01": 8,
+  "tile_water_01": 9
+}

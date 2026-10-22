@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="867" height="708" viewBox="0 0 867 708">
+  <rect width="867" height="708" fill="#2a2018"/>
+  <text x="24" y="40" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#f4ecd8">Character template — 4 frames × 4 directions</text>
+  <text x="24" y="66" font-family="sans-serif" font-size="14" fill="#c9bda2">Export as ONE PNG at 128×192px · each frame 32×48px · Phaser frame index = row×4 + col</text>
+  <text x="24" y="85" font-family="sans-serif" font-size="13" fill="#9c8f76">Loader: this.load.spritesheet('player', 'assets/sprites/player.png', { frameWidth: 32, frameHeight: 48 })</text>
+  <text x="24" y="102" font-family="sans-serif" font-size="13" fill="#9c8f76">Static NPCs need only ONE 32×48 image (frame 0, DOWN-facing) — load with this.load.image(...).</text>
+  <text x="277.5" y="180" font-family="sans-serif" font-size="15" font-weight="bold" fill="#f4ecd8" text-anchor="end">DOWN</text>
+      <g>
+        <rect x="289.5" y="108" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="309.5" cy="128" r="14" fill="#000" opacity="0.55"/>
+        <text x="309.5" y="133" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">0</text>
+        <text x="337.5" y="240" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">idle</text>
+      </g>
+      <g>
+        <rect x="385.5" y="108" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="405.5" cy="128" r="14" fill="#000" opacity="0.55"/>
+        <text x="405.5" y="133" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">1</text>
+        <text x="433.5" y="240" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">step L</text>
+      </g>
+      <g>
+        <rect x="481.5" y="108" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="501.5" cy="128" r="14" fill="#000" opacity="0.55"/>
+        <text x="501.5" y="133" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">2</text>
+        <text x="529.5" y="240" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">idle</text>
+      </g>
+      <g>
+        <rect x="577.5" y="108" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="597.5" cy="128" r="14" fill="#000" opacity="0.55"/>
+        <text x="597.5" y="133" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">3</text>
+        <text x="625.5" y="240" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">step R</text>
+      </g><text x="277.5" y="324" font-family="sans-serif" font-size="15" font-weight="bold" fill="#f4ecd8" text-anchor="end">LEFT</text>
+      <g>
+        <rect x="289.5" y="252" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="309.5" cy="272" r="14" fill="#000" opacity="0.55"/>
+        <text x="309.5" y="277" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">4</text>
+        <text x="337.5" y="384" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">idle</text>
+      </g>
+      <g>
+        <rect x="385.5" y="252" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="405.5" cy="272" r="14" fill="#000" opacity="0.55"/>
+        <text x="405.5" y="277" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">5</text>
+        <text x="433.5" y="384" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">step L</text>
+      </g>
+      <g>
+        <rect x="481.5" y="252" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="501.5" cy="272" r="14" fill="#000" opacity="0.55"/>
+        <text x="501.5" y="277" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">6</text>
+        <text x="529.5" y="384" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">idle</text>
+      </g>
+      <g>
+        <rect x="577.5" y="252" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="597.5" cy="272" r="14" fill="#000" opacity="0.55"/>
+        <text x="597.5" y="277" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">7</text>
+        <text x="625.5" y="384" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">step R</text>
+      </g><text x="277.5" y="468" font-family="sans-serif" font-size="15" font-weight="bold" fill="#f4ecd8" text-anchor="end">RIGHT</text>
+      <g>
+        <rect x="289.5" y="396" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="309.5" cy="416" r="14" fill="#000" opacity="0.55"/>
+        <text x="309.5" y="421" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">8</text>
+        <text x="337.5" y="528" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">idle</text>
+      </g>
+      <g>
+        <rect x="385.5" y="396" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="405.5" cy="416" r="14" fill="#000" opacity="0.55"/>
+        <text x="405.5" y="421" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">9</text>
+        <text x="433.5" y="528" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">step L</text>
+      </g>
+      <g>
+        <rect x="481.5" y="396" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="501.5" cy="416" r="14" fill="#000" opacity="0.55"/>
+        <text x="501.5" y="421" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">10</text>
+        <text x="529.5" y="528" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">idle</text>
+      </g>
+      <g>
+        <rect x="577.5" y="396" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="597.5" cy="416" r="14" fill="#000" opacity="0.55"/>
+        <text x="597.5" y="421" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">11</text>
+        <text x="625.5" y="528" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">step R</text>
+      </g><text x="277.5" y="612" font-family="sans-serif" font-size="15" font-weight="bold" fill="#f4ecd8" text-anchor="end">UP</text>
+      <g>
+        <rect x="289.5" y="540" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="309.5" cy="560" r="14" fill="#000" opacity="0.55"/>
+        <text x="309.5" y="565" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">12</text>
+        <text x="337.5" y="672" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">idle</text>
+      </g>
+      <g>
+        <rect x="385.5" y="540" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="405.5" cy="560" r="14" fill="#000" opacity="0.55"/>
+        <text x="405.5" y="565" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">13</text>
+        <text x="433.5" y="672" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">step L</text>
+      </g>
+      <g>
+        <rect x="481.5" y="540" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="501.5" cy="560" r="14" fill="#000" opacity="0.55"/>
+        <text x="501.5" y="565" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">14</text>
+        <text x="529.5" y="672" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">idle</text>
+      </g>
+      <g>
+        <rect x="577.5" y="540" width="96" height="144" fill="#3a2e22" stroke="#f4ecd8" stroke-width="2"/>
+        <circle cx="597.5" cy="560" r="14" fill="#000" opacity="0.55"/>
+        <text x="597.5" y="565" font-family="monospace" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">15</text>
+        <text x="625.5" y="672" font-family="sans-serif" font-size="12" fill="#c9bda2" text-anchor="middle">step R</text>
+      </g>
+</svg>

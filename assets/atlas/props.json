@@ -1,0 +1,1194 @@
+{
+ "frames": {
+  "prop_building_hall": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 704,
+    "h": 640
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 704,
+    "h": 640
+   },
+   "sourceSize": {
+    "w": 704,
+    "h": 640
+   }
+  },
+  "prop_building_alderleaf": {
+   "frame": {
+    "x": 705,
+    "y": 0,
+    "w": 704,
+    "h": 576
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 704,
+    "h": 576
+   },
+   "sourceSize": {
+    "w": 704,
+    "h": 576
+   }
+  },
+  "prop_building_inn": {
+   "frame": {
+    "x": 0,
+    "y": 641,
+    "w": 704,
+    "h": 576
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 704,
+    "h": 576
+   },
+   "sourceSize": {
+    "w": 704,
+    "h": 576
+   }
+  },
+  "prop_building_manor": {
+   "frame": {
+    "x": 705,
+    "y": 641,
+    "w": 768,
+    "h": 576
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 768,
+    "h": 576
+   },
+   "sourceSize": {
+    "w": 768,
+    "h": 576
+   }
+  },
+  "prop_building_orchard": {
+   "frame": {
+    "x": 0,
+    "y": 1218,
+    "w": 704,
+    "h": 576
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 704,
+    "h": 576
+   },
+   "sourceSize": {
+    "w": 704,
+    "h": 576
+   }
+  },
+  "prop_building_barthen": {
+   "frame": {
+    "x": 705,
+    "y": 1218,
+    "w": 640,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 640,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 640,
+    "h": 512
+   }
+  },
+  "prop_building_lionshield": {
+   "frame": {
+    "x": 1346,
+    "y": 1218,
+    "w": 576,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 576,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 576,
+    "h": 512
+   }
+  },
+  "prop_building_shrine": {
+   "frame": {
+    "x": 0,
+    "y": 1795,
+    "w": 512,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "prop_building_exchange": {
+   "frame": {
+    "x": 513,
+    "y": 1795,
+    "w": 640,
+    "h": 448
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 640,
+    "h": 448
+   },
+   "sourceSize": {
+    "w": 640,
+    "h": 448
+   }
+  },
+  "prop_building_giant": {
+   "frame": {
+    "x": 1154,
+    "y": 1795,
+    "w": 512,
+    "h": 448
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 448
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 448
+   }
+  },
+  "prop_int_bookshelf": {
+   "frame": {
+    "x": 1667,
+    "y": 1795,
+    "w": 144,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 144,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 144,
+    "h": 160
+   }
+  },
+  "prop_int_fireplace": {
+   "frame": {
+    "x": 1812,
+    "y": 1795,
+    "w": 180,
+    "h": 160
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 180,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 180,
+    "h": 160
+   }
+  },
+  "prop_int_goods_shelf": {
+   "frame": {
+    "x": 0,
+    "y": 2308,
+    "w": 200,
+    "h": 144
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 144
+   }
+  },
+  "prop_int_potion_shelf": {
+   "frame": {
+    "x": 201,
+    "y": 2308,
+    "w": 200,
+    "h": 144
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 144
+   }
+  },
+  "prop_int_rug_blue": {
+   "frame": {
+    "x": 402,
+    "y": 2308,
+    "w": 224,
+    "h": 144
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 144
+   }
+  },
+  "prop_int_rug_red": {
+   "frame": {
+    "x": 627,
+    "y": 2308,
+    "w": 224,
+    "h": 144
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 224,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 224,
+    "h": 144
+   }
+  },
+  "prop_int_altar": {
+   "frame": {
+    "x": 852,
+    "y": 2308,
+    "w": 248,
+    "h": 140
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 248,
+    "h": 140
+   },
+   "sourceSize": {
+    "w": 248,
+    "h": 140
+   }
+  },
+  "prop_int_armor_stand": {
+   "frame": {
+    "x": 1101,
+    "y": 2308,
+    "w": 64,
+    "h": 140
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 140
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 140
+   }
+  },
+  "prop_int_statue": {
+   "frame": {
+    "x": 1166,
+    "y": 2308,
+    "w": 80,
+    "h": 140
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 80,
+    "h": 140
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 140
+   }
+  },
+  "prop_decor_cart": {
+   "frame": {
+    "x": 1247,
+    "y": 2308,
+    "w": 176,
+    "h": 132
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 176,
+    "h": 132
+   },
+   "sourceSize": {
+    "w": 176,
+    "h": 132
+   }
+  },
+  "prop_decor_well": {
+   "frame": {
+    "x": 1424,
+    "y": 2308,
+    "w": 112,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 128
+   }
+  },
+  "prop_int_banner_blue": {
+   "frame": {
+    "x": 1537,
+    "y": 2308,
+    "w": 56,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 124
+   }
+  },
+  "prop_int_banner_red": {
+   "frame": {
+    "x": 1594,
+    "y": 2308,
+    "w": 56,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 124
+   }
+  },
+  "prop_int_weapon_rack": {
+   "frame": {
+    "x": 1651,
+    "y": 2308,
+    "w": 184,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 124
+   }
+  },
+  "prop_int_pick_rack": {
+   "frame": {
+    "x": 1836,
+    "y": 2308,
+    "w": 132,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 132,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 132,
+    "h": 120
+   }
+  },
+  "prop_decor_lamp": {
+   "frame": {
+    "x": 1969,
+    "y": 2308,
+    "w": 32,
+    "h": 112
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 112
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 112
+   }
+  },
+  "prop_int_rug_brown": {
+   "frame": {
+    "x": 0,
+    "y": 2453,
+    "w": 168,
+    "h": 112
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 168,
+    "h": 112
+   },
+   "sourceSize": {
+    "w": 168,
+    "h": 112
+   }
+  },
+  "prop_int_candle_stand": {
+   "frame": {
+    "x": 169,
+    "y": 2453,
+    "w": 36,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 36,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 36,
+    "h": 100
+   }
+  },
+  "prop_int_map_table": {
+   "frame": {
+    "x": 206,
+    "y": 2453,
+    "w": 188,
+    "h": 100
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 188,
+    "h": 100
+   },
+   "sourceSize": {
+    "w": 188,
+    "h": 100
+   }
+  },
+  "prop_int_bar": {
+   "frame": {
+    "x": 395,
+    "y": 2453,
+    "w": 800,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 800,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 800,
+    "h": 96
+   }
+  },
+  "prop_int_window": {
+   "frame": {
+    "x": 1196,
+    "y": 2453,
+    "w": 80,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 80,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 96
+   }
+  },
+  "prop_int_desk": {
+   "frame": {
+    "x": 1277,
+    "y": 2453,
+    "w": 720,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 720,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 720,
+    "h": 92
+   }
+  },
+  "prop_int_ore_cart": {
+   "frame": {
+    "x": 0,
+    "y": 2566,
+    "w": 140,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 140,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 140,
+    "h": 92
+   }
+  },
+  "prop_int_shield_wall": {
+   "frame": {
+    "x": 141,
+    "y": 2566,
+    "w": 208,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 92
+   }
+  },
+  "prop_int_table_round": {
+   "frame": {
+    "x": 350,
+    "y": 2566,
+    "w": 108,
+    "h": 92
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 108,
+    "h": 92
+   },
+   "sourceSize": {
+    "w": 108,
+    "h": 92
+   }
+  },
+  "prop_int_counter_blue": {
+   "frame": {
+    "x": 459,
+    "y": 2566,
+    "w": 1000,
+    "h": 88
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1000,
+    "h": 88
+   },
+   "sourceSize": {
+    "w": 1000,
+    "h": 88
+   }
+  },
+  "prop_int_counter_tan": {
+   "frame": {
+    "x": 0,
+    "y": 2659,
+    "w": 1000,
+    "h": 88
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1000,
+    "h": 88
+   },
+   "sourceSize": {
+    "w": 1000,
+    "h": 88
+   }
+  },
+  "prop_int_counter_wood": {
+   "frame": {
+    "x": 1001,
+    "y": 2659,
+    "w": 1000,
+    "h": 88
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1000,
+    "h": 88
+   },
+   "sourceSize": {
+    "w": 1000,
+    "h": 88
+   }
+  },
+  "prop_int_table_long": {
+   "frame": {
+    "x": 0,
+    "y": 2748,
+    "w": 184,
+    "h": 88
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 184,
+    "h": 88
+   },
+   "sourceSize": {
+    "w": 184,
+    "h": 88
+   }
+  },
+  "prop_int_herbs": {
+   "frame": {
+    "x": 185,
+    "y": 2748,
+    "w": 68,
+    "h": 76
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 76
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 76
+   }
+  },
+  "prop_decor_goat": {
+   "frame": {
+    "x": 254,
+    "y": 2748,
+    "w": 76,
+    "h": 68
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 76,
+    "h": 68
+   },
+   "sourceSize": {
+    "w": 76,
+    "h": 68
+   }
+  },
+  "prop_int_chair": {
+   "frame": {
+    "x": 331,
+    "y": 2748,
+    "w": 44,
+    "h": 68
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 44,
+    "h": 68
+   },
+   "sourceSize": {
+    "w": 44,
+    "h": 68
+   }
+  },
+  "prop_int_keg": {
+   "frame": {
+    "x": 376,
+    "y": 2748,
+    "w": 60,
+    "h": 68
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 60,
+    "h": 68
+   },
+   "sourceSize": {
+    "w": 60,
+    "h": 68
+   }
+  },
+  "prop_int_scales": {
+   "frame": {
+    "x": 437,
+    "y": 2748,
+    "w": 60,
+    "h": 68
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 60,
+    "h": 68
+   },
+   "sourceSize": {
+    "w": 60,
+    "h": 68
+   }
+  },
+  "prop_decor_bush": {
+   "frame": {
+    "x": 498,
+    "y": 2748,
+    "w": 80,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 80,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 60
+   }
+  },
+  "prop_int_anvil": {
+   "frame": {
+    "x": 579,
+    "y": 2748,
+    "w": 76,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 76,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 76,
+    "h": 60
+   }
+  },
+  "prop_decor_barrel": {
+   "frame": {
+    "x": 656,
+    "y": 2748,
+    "w": 48,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 56
+   }
+  },
+  "prop_decor_hay": {
+   "frame": {
+    "x": 705,
+    "y": 2748,
+    "w": 80,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 80,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 56
+   }
+  },
+  "prop_int_bench": {
+   "frame": {
+    "x": 786,
+    "y": 2748,
+    "w": 144,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 144,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 144,
+    "h": 56
+   }
+  },
+  "prop_int_chest": {
+   "frame": {
+    "x": 931,
+    "y": 2748,
+    "w": 68,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 56
+   }
+  },
+  "prop_int_ore_crate": {
+   "frame": {
+    "x": 1000,
+    "y": 2748,
+    "w": 68,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 56
+   }
+  },
+  "prop_int_pew": {
+   "frame": {
+    "x": 1069,
+    "y": 2748,
+    "w": 200,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 56
+   }
+  },
+  "prop_decor_crate": {
+   "frame": {
+    "x": 1270,
+    "y": 2748,
+    "w": 56,
+    "h": 52
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 52
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 52
+   }
+  },
+  "prop_int_sack": {
+   "frame": {
+    "x": 1327,
+    "y": 2748,
+    "w": 52,
+    "h": 52
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 52,
+    "h": 52
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 52
+   }
+  },
+  "prop_int_sack_grain": {
+   "frame": {
+    "x": 1380,
+    "y": 2748,
+    "w": 52,
+    "h": 52
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 52,
+    "h": 52
+   },
+   "sourceSize": {
+    "w": 52,
+    "h": 52
+   }
+  },
+  "prop_decor_stump": {
+   "frame": {
+    "x": 1433,
+    "y": 2748,
+    "w": 48,
+    "h": 44
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 48,
+    "h": 44
+   },
+   "sourceSize": {
+    "w": 48,
+    "h": 44
+   }
+  },
+  "prop_int_stool": {
+   "frame": {
+    "x": 1482,
+    "y": 2748,
+    "w": 36,
+    "h": 44
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 36,
+    "h": 44
+   },
+   "sourceSize": {
+    "w": 36,
+    "h": 44
+   }
+  },
+  "prop_decor_rock": {
+   "frame": {
+    "x": 1519,
+    "y": 2748,
+    "w": 56,
+    "h": 40
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 40
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 40
+   }
+  },
+  "prop_decor_flowers": {
+   "frame": {
+    "x": 1576,
+    "y": 2748,
+    "w": 60,
+    "h": 36
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 60,
+    "h": 36
+   },
+   "sourceSize": {
+    "w": 60,
+    "h": 36
+   }
+  }
+ },
+ "meta": {
+  "app": "phandalin tools/pack.py",
+  "image": "props.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2048,
+   "h": 2836
+  },
+  "scale": "1"
+ }
+}
